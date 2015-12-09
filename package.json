@@ -1,0 +1,9 @@
+{
+	"name": "vprefix",
+	"version": "1.0.0",
+	"author": "Carl Hopf <npm@carlhopf.com>",
+	"description": "CSS vendor prefix.",
+	"repository": "https://github.com/carlhopf/vprefix",
+	"dependencies": {},
+	"devDependencies": {}
+}
