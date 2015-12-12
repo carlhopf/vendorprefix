@@ -1,7 +1,8 @@
 {
 	"name": "vprefix",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"author": "Carl Hopf <npm@carlhopf.com>",
+	"license": "MIT",
 	"description": "CSS vendor prefix.",
 	"repository": "https://github.com/carlhopf/vprefix",
 	"dependencies": {},
